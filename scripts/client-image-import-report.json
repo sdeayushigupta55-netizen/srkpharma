@@ -1,0 +1,480 @@
+{
+  "totalAttached": 114,
+  "excluded": [
+    {
+      "filename": "SUDEX_100-4dddada8-55ae-4b54-96dc-02c725fdd082.png",
+      "prefix": "SUDEX_100",
+      "reason": "user excluded (wrong packaging)"
+    }
+  ],
+  "replaced": [
+    {
+      "slug": "spdem-10",
+      "filename": "SPDEM_10-f2670550-b486-43bc-9f04-2895f1415fc3.png"
+    },
+    {
+      "slug": "sriga-e",
+      "filename": "SRIGA_E-bf37c8a7-0c88-499e-b4f6-4c83ec8ea9cb.png"
+    },
+    {
+      "slug": "sripram-1",
+      "filename": "SRIPRIM_1-ce919b13-1f2c-4caa-a7dc-a40ab7a83ffd.png"
+    },
+    {
+      "slug": "chlozapam-050",
+      "filename": "CHLOZAPAM__0.50-446d147d-5be3-432e-ac22-5a405025006b.png"
+    },
+    {
+      "slug": "sripram-025",
+      "filename": "SRIPRIM_0.25-f427b7f2-7894-4370-b362-b60d21b720c0.png"
+    },
+    {
+      "slug": "chlozapam-025",
+      "filename": "CHLOZAPAM_0.25-f38d2669-f215-45b5-9873-f0064633ea8a.png"
+    },
+    {
+      "slug": "sritivan-050",
+      "filename": "SRITIVAN_0.50-d8685aef-0035-4ba4-acc2-2bd23e7eae23.png"
+    },
+    {
+      "slug": "srizodone-d",
+      "filename": "SRIZODONE_SR_100-ba0ec2b5-0264-469c-a6cc-7d3a22a2c14c.png"
+    },
+    {
+      "slug": "sluvox-50",
+      "filename": "SLUVOX_50_N-ad5e97d7-1338-4d9f-b99f-cc1748af86d9.png"
+    }
+  ],
+  "addedForExistingProduct": [
+    {
+      "slug": "citlopram-10",
+      "filename": "Citlopram_10-8cf08a23-060a-4673-9e20-858b76058e49.png"
+    },
+    {
+      "slug": "citlopram-plus-20",
+      "filename": "CITLOPRAM_PLUS_20-fb50c811-7470-456c-9d4c-f92196ca8ec9.png"
+    },
+    {
+      "slug": "citlopram-5",
+      "filename": "Citlopram__5-24c1be98-fdd4-4b11-8dfe-0302d8adca6a.png"
+    },
+    {
+      "slug": "sluvox-100",
+      "filename": "SLUVOX__100-acc8f97d-ef09-4865-b7cb-077e26e07f2b.png"
+    },
+    {
+      "slug": "pridec-025",
+      "filename": "PRIDEC_0.25-01d22a91-d747-41ba-8098-abbcd2e9234c.png"
+    },
+    {
+      "slug": "kroger-10",
+      "filename": "KROGER_10-bd8ee1fb-9804-4a65-974b-4d74050e417e.png"
+    },
+    {
+      "slug": "marlboo-050",
+      "filename": "MARLBORO__0.50-0673bd1a-3f76-44bc-ba3d-2d7d7a6906fb.png"
+    },
+    {
+      "slug": "srimine-1500",
+      "filename": "SRIMINE__1500-8ccc3b36-50f8-4b2c-9b21-c2563ecb828f.png"
+    },
+    {
+      "slug": "pridec-050",
+      "filename": "PRIDEC_0.50-e8903a71-a505-4b5c-af00-ab124b768073.png"
+    },
+    {
+      "slug": "slaboz-10",
+      "filename": "SLABOZ_10-5bc1fdef-bc4f-4351-88d1-5800a380f1dd.png"
+    },
+    {
+      "slug": "marlboo-sr",
+      "filename": "MARLBORO_SR-d33afaca-e839-48b0-8602-5e62cb98947f.png"
+    },
+    {
+      "slug": "samogin-50-tab",
+      "filename": "SAMOGIN-4e6745a4-ffdc-4ebc-afec-b409aeb0b19c.png"
+    },
+    {
+      "slug": "shirbec-100-syrup",
+      "filename": "SHIRBEC_SYRUPS-ceccd54b-9697-48bc-bb1d-ec51d8f7c4af.png"
+    },
+    {
+      "slug": "sriepa-cl",
+      "filename": "SRILEPA_125-7586cdb7-f5d6-45e5-8b6a-07ad7925bf53.png"
+    },
+    {
+      "slug": "sripiral-300",
+      "filename": "SRIPIRAL_300-e69f3756-9c09-4e7f-a1e4-d2812ec548c7.png"
+    },
+    {
+      "slug": "salmide-200",
+      "filename": "SALMIDE_200-22a242d3-c961-4fc9-910b-be5fe8fdd37f.png"
+    },
+    {
+      "slug": "sriga-150",
+      "filename": "SRIGA__150-b51aa62f-dfc6-47eb-8bae-1016cf18096e.png"
+    },
+    {
+      "slug": "sriga-75",
+      "filename": "SRIGA_75-3cd6b851-ced9-4add-a803-1801c39ea249.png"
+    },
+    {
+      "slug": "samogin-100-disp",
+      "filename": "SAMOGIN_100-e9709ebb-94dc-4060-867b-9f93d21d1ad8.png"
+    },
+    {
+      "slug": "sriepa-c-250",
+      "filename": "SRILEPA_250-45de651d-83dc-4ee8-88ab-8eae1fdf59d5.png"
+    },
+    {
+      "slug": "sepride-50",
+      "filename": "SEPRIDE_50-2c0b0404-fab1-48bb-a35f-8fb4135a4d5f.png"
+    },
+    {
+      "slug": "salmide-400",
+      "filename": "SALMIDE_400-65eb40be-3a11-4ea7-a7d6-485f653ed8b3.png"
+    },
+    {
+      "slug": "slidone-6",
+      "filename": "SLIDONE_6-2d89b764-2d6a-4650-b04a-431186579b13.png"
+    },
+    {
+      "slug": "sripiral-600",
+      "filename": "SRIPIRAL_600-6f2c2929-f200-4726-a76c-538e65ef4104.png"
+    },
+    {
+      "slug": "slaboz-5",
+      "filename": "SLABOZ_5-3a4e9b2f-a93d-45bd-87e9-dba4f95beb6f.png"
+    },
+    {
+      "slug": "srimine-500",
+      "filename": "SRIMINE__500-0cd1e495-1cf1-4d66-8121-884f75a355e4.png"
+    },
+    {
+      "slug": "sribazim-100",
+      "filename": "SRIBAZIM_100-1d90134e-05e3-4fc7-a780-8a5439a05d3a.png"
+    },
+    {
+      "slug": "citlopram-plus-5",
+      "filename": "CITLOPRAM_PLUS_5-c6608ba7-a30e-4672-8db3-9946eb15cd73.png"
+    },
+    {
+      "slug": "shirbec-500-blister",
+      "filename": "SHIRBEC_500_d-891837e4-6965-4f83-bd2a-19d93a68d953.png"
+    },
+    {
+      "slug": "srimitor-200",
+      "filename": "SRIMITOR_200-9dae6b2e-9e2b-47f8-b325-37ba338bf082.png"
+    },
+    {
+      "slug": "samogin-50-disp",
+      "filename": "SAMOGIN_50_D-ad816232-4ac7-40b8-897a-c2c36135424f.png"
+    },
+    {
+      "slug": "sripar-2",
+      "filename": "SRIPAR_2-61152675-c3f2-4182-a8fe-7f5b75c24f31.png"
+    },
+    {
+      "slug": "srizodone-50",
+      "filename": "SRIZODONE__50-69ae539c-a620-433e-985d-2bb5d1149f35.png"
+    },
+    {
+      "slug": "citlopram-plus",
+      "filename": "CITLOPRAM_PLUS-28c94232-93be-4470-ae1d-9459593fc5a9.png"
+    },
+    {
+      "slug": "srimitor-1335",
+      "filename": "SRIMITOR_133.5-c2a1964b-90bc-4f1a-b3fa-f66e673f7eb1.png"
+    },
+    {
+      "slug": "sripram-10",
+      "filename": "SRIPRAM_10-11adb3d7-a519-40e4-8de2-5ddbfdd5e2c6.png"
+    },
+    {
+      "slug": "shirbec-1000",
+      "filename": "SHIRBEC_1000-cbc172b7-b548-4b2e-a7af-31dd97205409.png"
+    },
+    {
+      "slug": "shirbec-250",
+      "filename": "SHIRBEC_250-c60ba57d-a8e4-448c-b70a-8b99c7cb3daf.png"
+    },
+    {
+      "slug": "sribazim-fort",
+      "filename": "SRIBAZIM_FORT-44d93827-609b-470c-b67d-80b8c3853e4c.png"
+    },
+    {
+      "slug": "gebelin-forte",
+      "filename": "SRIGA_FORTE-4dbd7a95-b015-4e36-83a2-27402c8c98df.png"
+    },
+    {
+      "slug": "suloxetin-40",
+      "filename": "SULOXETIN_40.-f4a2ce55-2944-481b-9c7d-049acfcea070.png"
+    },
+    {
+      "slug": "sripar-4",
+      "filename": "SRIPAR_4-de196454-8f6b-4c6a-9427-cc43557a5c5a.png"
+    },
+    {
+      "slug": "kroger-sr",
+      "filename": "KROGER_SR-d4f21b04-f1b7-46e7-bf9a-9db239ad2622.png"
+    },
+    {
+      "slug": "sepride-100",
+      "filename": "SEPRIDE_100-86214e54-d831-4ecf-b79d-980e79401927.png"
+    },
+    {
+      "slug": "sidirox-500",
+      "filename": "SIDIROX_500-8945a1df-7965-4201-bcea-91d181318570.png"
+    },
+    {
+      "slug": "srinza-25",
+      "filename": "SRINZA_2.5-5eda479f-2d43-4295-a3d8-64d98b937221.png"
+    },
+    {
+      "slug": "sozapine-100",
+      "filename": "SOZAPINE_100-580199ac-2bca-4b20-b3cd-79cedd3c84b4.png"
+    },
+    {
+      "slug": "spdem-5",
+      "filename": "SPDEM_5-9feb3b6a-eb4a-4acd-b614-6d4cb499b963.png"
+    },
+    {
+      "slug": "sozapine-50",
+      "filename": "SOZAPINE_50-746b8fc3-f572-4b25-aad4-189475c16947.png"
+    },
+    {
+      "slug": "sudex-50",
+      "filename": "SUDEX_50-2407ce28-889c-4917-8aee-07e284fb8f83.png"
+    },
+    {
+      "slug": "srivita-v",
+      "filename": "SRIVITA_V-becbf6d1-43ca-4872-af7e-d78d1d19cf94.png"
+    },
+    {
+      "slug": "sribazim-400",
+      "filename": "SRIBAZIM_400-d2ef65dd-5200-45d9-af4d-ba382684d62c.png"
+    },
+    {
+      "slug": "suloxetin-20",
+      "filename": "SULOXETIN_20-c71c756b-c071-4d57-a860-06403203f7dc.png"
+    },
+    {
+      "slug": "spimat-50",
+      "filename": "SPIMAT_50-8b5543b4-9e18-4670-9240-1d51bef36859.png"
+    },
+    {
+      "slug": "sepridol-10",
+      "filename": "SEPRIDOL_10-c96894e0-821d-4b8c-a9c4-f30596fc05ef.png"
+    },
+    {
+      "slug": "sepridol-5",
+      "filename": "SEPRIDOL_5-4daa94b4-e167-4df4-b90f-06c6f4465468.png"
+    },
+    {
+      "slug": "sribazim-200",
+      "filename": "SRIBAZIM_200-42199b17-7517-4cb5-8cd3-523e1035ed3f.png"
+    },
+    {
+      "slug": "spzole-10",
+      "filename": "SPZOLE_10-14d62065-22bb-4b87-9042-284e52231e9d.png"
+    },
+    {
+      "slug": "srifluz-b",
+      "filename": "SRIFLUZ_PLUS-ab783adb-4cf0-4615-a0ab-bb639079ad69.png"
+    },
+    {
+      "slug": "sritrola-40",
+      "filename": "SRITROLA_40-b30cd8b8-1262-45f9-b08f-d75f6d11f405.png"
+    },
+    {
+      "slug": "srinza-5-tab",
+      "filename": "SRINZA-4df9c7f6-1ac3-4145-be27-184b59209964.png"
+    },
+    {
+      "slug": "sriprid-100",
+      "filename": "SRIPRID_100-16d5b1a1-312e-477e-895c-633615920fe8.png"
+    },
+    {
+      "slug": "sripilin-100",
+      "filename": "SRIPILIN__100-c7afef99-d3be-4885-aedd-bb7a8b9d605a.png"
+    },
+    {
+      "slug": "sripilin-300",
+      "filename": "SRIPILIN__300-0dba0af9-7c11-4ed2-9e6c-b4aeb73a01e0.png"
+    },
+    {
+      "slug": "spzole-15",
+      "filename": "SPZOLE_15-ed528a50-d9ca-4c28-9f15-8a634b3a334f.png"
+    },
+    {
+      "slug": "srizpo-c",
+      "filename": "SRIZPO_C-e045961a-47c3-4f63-8cb9-163d91b48264.png"
+    },
+    {
+      "slug": "seprox-250",
+      "filename": "SEPROX_250-b973b0e8-152d-442c-9ae2-c12575c825c3.png"
+    },
+    {
+      "slug": "sriprid-50",
+      "filename": "SRIPRID_50-c2b70a44-4d9f-4bad-aada-e44309547482.png"
+    },
+    {
+      "slug": "sriepa-100",
+      "filename": "SRILEPA_110-d20cdcdb-1aa3-4464-a003-005009e57da4.png"
+    },
+    {
+      "slug": "slidone-3",
+      "filename": "SLIDONE_3-7886c615-a008-4b27-811c-be1ab65e0851.png"
+    },
+    {
+      "slug": "sriproz-lt",
+      "filename": "SRIPROZ_FORTE-eadf0b73-37fb-447c-9d4e-dabe65026255.png"
+    },
+    {
+      "slug": "srizodone-100",
+      "filename": "SRIZODONE__100-c866da4d-b2aa-4afe-a21a-8496d4a48100.png"
+    },
+    {
+      "slug": "srinza-10",
+      "filename": "SRINZA_10-9fb8b44e-09fe-4f45-8125-c17fd5adaa47.png"
+    },
+    {
+      "slug": "srinza-5-md",
+      "filename": "SRINZA_D-4e7cb22b-72bf-4809-9b61-745b59a5f731.png"
+    },
+    {
+      "slug": "seprox-500",
+      "filename": "SEPROX_500-f453c613-9a93-42bf-baa1-f7eb9386249d.png"
+    },
+    {
+      "slug": "sridet-5",
+      "filename": "SRIDET_5-0594cc7f-b296-4ba0-b6c4-219a1c385a21.png"
+    },
+    {
+      "slug": "shirbec-750",
+      "filename": "SHIRBEC_750-53b81ddb-8b8c-46c9-8bb7-1c1eaea7f218.png"
+    },
+    {
+      "slug": "shirbec-500",
+      "filename": "SHIRBEC_500-1dea9f7c-8e0a-4fd5-9434-3db3dc881248.png"
+    },
+    {
+      "slug": "sridet-10",
+      "filename": "SRIDET_10-8a7c72a6-840e-4311-bc33-453ff67ad8b5.png"
+    },
+    {
+      "slug": "snium-400",
+      "filename": "SNIUM_400-49388ab8-5bce-49ac-82f4-b42cbd78683e.png"
+    },
+    {
+      "slug": "srizpo-10",
+      "filename": "SRIZPO__10-8472ab38-8511-4748-93d7-adee83d30545.png"
+    },
+    {
+      "slug": "sritrola-10",
+      "filename": "SRITROLA_10-25bfff44-c1df-4bbb-ac2a-c47e1803cbc6.png"
+    },
+    {
+      "slug": "sripar-3",
+      "filename": "SRIPAR_3-d3847702-e6c4-412f-8f54-cfb353213b21.png"
+    },
+    {
+      "slug": "snium-300",
+      "filename": "SNIUM_300-3a34255a-747c-4451-814a-9ca025b42ed8.png"
+    },
+    {
+      "slug": "srithio-25",
+      "filename": "SRITHIO_25-44e49767-1c5d-49cc-90e7-38de66e735eb.png"
+    },
+    {
+      "slug": "sritivan-1",
+      "filename": "SRITIVAN_1-485f1c0d-991f-41eb-8ab2-e57ae09aa135.png"
+    },
+    {
+      "slug": "sritivan-2",
+      "filename": "SRITIVAN_2-c8dc0f01-8b58-4a4c-a344-dddffdd8db94.png"
+    },
+    {
+      "slug": "srivita-fort",
+      "filename": "SRIVITA_FORT-14e4b52f-a4f0-4d63-95dc-6d069d737ac1.png"
+    },
+    {
+      "slug": "srivena-375",
+      "filename": "SRIVENA_37.5-85a1c029-e8e1-48e8-9678-c118e869c668.png"
+    },
+    {
+      "slug": "srivita-mts",
+      "filename": "SRIVITA_MTS-f50e8b3e-5a63-46a5-84b1-1d797e518189.png"
+    },
+    {
+      "slug": "srivena-75",
+      "filename": "SRIVENA_75-f9d0faa6-d96f-4c93-8aaa-15029c40143c.png"
+    },
+    {
+      "slug": "spimat-25",
+      "filename": "SPIMAT_25-3f1647d2-2ce1-47b7-92b2-eaf1cf44d466.png"
+    },
+    {
+      "slug": "marlboo-025",
+      "filename": "MARLBORO_0.25_N-6ac8a8b1-8d9b-428d-9c1f-d941c2e153fe.png"
+    },
+    {
+      "slug": "gebelin-ntm",
+      "filename": "SRIGA__NTM-f1f467fd-310d-494a-9ade-0bca7a542e83.png"
+    }
+  ],
+  "unmatched": [],
+  "missingFile": [],
+  "duplicatesSkipped": [
+    {
+      "filename": "SAMOGIN_50-98cca355-5903-4316-8c85-23d5eb34f2e8.png",
+      "slug": "samogin-50-tab",
+      "kept": "SAMOGIN-4e6745a4-ffdc-4ebc-afec-b409aeb0b19c.png"
+    },
+    {
+      "filename": "SRITIVAN_0.5-c22e9d61-d0f8-492d-a2a6-f25213cccccb.png",
+      "slug": "sritivan-050",
+      "kept": "SRITIVAN_0.50-d8685aef-0035-4ba4-acc2-2bd23e7eae23.png"
+    },
+    {
+      "filename": "SRINZA_Sachet-46912275-febf-4dcb-aa6e-4bb4432f67db.png",
+      "slug": "srinza-5-tab",
+      "kept": "SRINZA-4df9c7f6-1ac3-4145-be27-184b59209964.png"
+    },
+    {
+      "filename": "SPDEM_10_M-116d1e2f-583a-4d96-aa0f-15237e34cccd.png",
+      "slug": "spdem-10",
+      "kept": "SPDEM_10-f2670550-b486-43bc-9f04-2895f1415fc3.png"
+    },
+    {
+      "filename": "SUDEX_50__1_-c69c76fb-887d-4b19-9ce0-9d350785974e.png",
+      "slug": "sudex-50",
+      "kept": "SUDEX_50-2407ce28-889c-4917-8aee-07e284fb8f83.png"
+    },
+    {
+      "filename": "SPDEM_5__1_-83e78c69-3446-4009-b2bc-fafdcf551e23.png",
+      "slug": "spdem-5",
+      "kept": "SPDEM_5-9feb3b6a-eb4a-4acd-b614-6d4cb499b963.png"
+    },
+    {
+      "filename": "SEPROX_250__1_-90d1cd65-a3a9-4aaf-b1c0-c109a45d0058.png",
+      "slug": "seprox-250",
+      "kept": "SEPROX_250-b973b0e8-152d-442c-9ae2-c12575c825c3.png"
+    },
+    {
+      "filename": "SRITIVAN_1__1_-def3a6d8-3ed8-4125-a39d-1f9ec67e507d.png",
+      "slug": "sritivan-1",
+      "kept": "SRITIVAN_1-485f1c0d-991f-41eb-8ab2-e57ae09aa135.png"
+    },
+    {
+      "filename": "SNIUM_300__1_-86889a53-37ac-4e8f-b602-f83ca6006c25.png",
+      "slug": "snium-300",
+      "kept": "SNIUM_300-3a34255a-747c-4451-814a-9ca025b42ed8.png"
+    },
+    {
+      "filename": "SRITIVAN_2__1_-ccc451b1-07cc-46c3-a25d-411d99f6a497.png",
+      "slug": "sritivan-2",
+      "kept": "SRITIVAN_2-c8dc0f01-8b58-4a4c-a344-dddffdd8db94.png"
+    }
+  ]
+}

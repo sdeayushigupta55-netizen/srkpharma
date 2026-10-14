@@ -1,0 +1,709 @@
+{
+  "method": "studio-background-removal + white composite",
+  "total": 140,
+  "processed": [
+    {
+      "slug": "aegon-02",
+      "source": "aegon-02.jpeg",
+      "output": "aegon-02.png"
+    },
+    {
+      "slug": "aegon-04",
+      "source": "aegon-04.jpeg",
+      "output": "aegon-04.png"
+    },
+    {
+      "slug": "aegon-s",
+      "source": "aegon-s.jpeg",
+      "output": "aegon-s.png"
+    },
+    {
+      "slug": "aegon-sr",
+      "source": "aegon-sr.jpeg",
+      "output": "aegon-sr.png"
+    },
+    {
+      "slug": "chlozapam-025",
+      "source": "chlozapam-025.png",
+      "output": "chlozapam-025.png"
+    },
+    {
+      "slug": "chlozapam-050",
+      "source": "chlozapam-050.png",
+      "output": "chlozapam-050.png"
+    },
+    {
+      "slug": "citlopram-plus",
+      "source": "citlopram-plus.png",
+      "output": "citlopram-plus.png"
+    },
+    {
+      "slug": "citlopram-plus-5",
+      "source": "citlopram-plus-5.png",
+      "output": "citlopram-plus-5.png"
+    },
+    {
+      "slug": "clonazepam-p",
+      "source": "clonazepam-p.jpeg",
+      "output": "clonazepam-p.png"
+    },
+    {
+      "slug": "cofsri-sf",
+      "source": "cofsri-sf.png",
+      "output": "cofsri-sf.png"
+    },
+    {
+      "slug": "gebelin-ntm",
+      "source": "gebelin-ntm.png",
+      "output": "gebelin-ntm.png"
+    },
+    {
+      "slug": "kroger-10",
+      "source": "kroger-10.png",
+      "output": "kroger-10.png"
+    },
+    {
+      "slug": "kroger-5",
+      "source": "kroger-5.jpeg",
+      "output": "kroger-5.png"
+    },
+    {
+      "slug": "kroger-sr",
+      "source": "kroger-sr.png",
+      "output": "kroger-sr.png"
+    },
+    {
+      "slug": "marlboo-025",
+      "source": "marlboo-025.png",
+      "output": "marlboo-025.png"
+    },
+    {
+      "slug": "marlboo-050",
+      "source": "marlboo-050.png",
+      "output": "marlboo-050.png"
+    },
+    {
+      "slug": "marlboo-sr",
+      "source": "marlboo-sr.png",
+      "output": "marlboo-sr.png"
+    },
+    {
+      "slug": "nitzpam-5",
+      "source": "nitzpam-5.jpeg",
+      "output": "nitzpam-5.png"
+    },
+    {
+      "slug": "pridec-025",
+      "source": "pridec-025.png",
+      "output": "pridec-025.png"
+    },
+    {
+      "slug": "pridec-050",
+      "source": "pridec-050.png",
+      "output": "pridec-050.png"
+    },
+    {
+      "slug": "salmide-200",
+      "source": "salmide-200.png",
+      "output": "salmide-200.png"
+    },
+    {
+      "slug": "salmide-400",
+      "source": "salmide-400.png",
+      "output": "salmide-400.png"
+    },
+    {
+      "slug": "samogin-50-tab",
+      "source": "samogin-50-tab.png",
+      "output": "samogin-50-tab.png"
+    },
+    {
+      "slug": "sepride-100",
+      "source": "sepride-100.png",
+      "output": "sepride-100.png"
+    },
+    {
+      "slug": "sepride-50",
+      "source": "sepride-50.png",
+      "output": "sepride-50.png"
+    },
+    {
+      "slug": "sepridol-10",
+      "source": "sepridol-10.png",
+      "output": "sepridol-10.png"
+    },
+    {
+      "slug": "sepridol-5",
+      "source": "sepridol-5.png",
+      "output": "sepridol-5.png"
+    },
+    {
+      "slug": "seprox-250",
+      "source": "seprox-250.png",
+      "output": "seprox-250.png"
+    },
+    {
+      "slug": "seprox-500",
+      "source": "seprox-500.png",
+      "output": "seprox-500.png"
+    },
+    {
+      "slug": "shirbec-1000",
+      "source": "shirbec-1000.png",
+      "output": "shirbec-1000.png"
+    },
+    {
+      "slug": "sidirox-500",
+      "source": "sidirox-500.png",
+      "output": "sidirox-500.png"
+    },
+    {
+      "slug": "silepram-25",
+      "source": "silepram-25.jpeg",
+      "output": "silepram-25.png"
+    },
+    {
+      "slug": "slaboz-10",
+      "source": "slaboz-10.png",
+      "output": "slaboz-10.png"
+    },
+    {
+      "slug": "slaboz-5",
+      "source": "slaboz-5.png",
+      "output": "slaboz-5.png"
+    },
+    {
+      "slug": "slidone-3",
+      "source": "slidone-3.png",
+      "output": "slidone-3.png"
+    },
+    {
+      "slug": "slidone-6",
+      "source": "slidone-6.png",
+      "output": "slidone-6.png"
+    },
+    {
+      "slug": "smimine-25",
+      "source": "smimine-25.jpeg",
+      "output": "smimine-25.png"
+    },
+    {
+      "slug": "smimine-fort",
+      "source": "smimine-fort.jpeg",
+      "output": "smimine-fort.png"
+    },
+    {
+      "slug": "snium-300",
+      "source": "snium-300.png",
+      "output": "snium-300.png"
+    },
+    {
+      "slug": "snium-400",
+      "source": "snium-400.png",
+      "output": "snium-400.png"
+    },
+    {
+      "slug": "sozapine-100",
+      "source": "sozapine-100.png",
+      "output": "sozapine-100.png"
+    },
+    {
+      "slug": "sozapine-50",
+      "source": "sozapine-50.png",
+      "output": "sozapine-50.png"
+    },
+    {
+      "slug": "spdem-10",
+      "source": "spdem-10.png",
+      "output": "spdem-10.png"
+    },
+    {
+      "slug": "spdem-5",
+      "source": "spdem-5.png",
+      "output": "spdem-5.png"
+    },
+    {
+      "slug": "spimat-25",
+      "source": "spimat-25.png",
+      "output": "spimat-25.png"
+    },
+    {
+      "slug": "spimat-50",
+      "source": "spimat-50.png",
+      "output": "spimat-50.png"
+    },
+    {
+      "slug": "spzole-10",
+      "source": "spzole-10.png",
+      "output": "spzole-10.png"
+    },
+    {
+      "slug": "spzole-15",
+      "source": "spzole-15.png",
+      "output": "spzole-15.png"
+    },
+    {
+      "slug": "sribazim-100",
+      "source": "sribazim-100.png",
+      "output": "sribazim-100.png"
+    },
+    {
+      "slug": "sribazim-200",
+      "source": "sribazim-200.png",
+      "output": "sribazim-200.png"
+    },
+    {
+      "slug": "sribazim-400",
+      "source": "sribazim-400.png",
+      "output": "sribazim-400.png"
+    },
+    {
+      "slug": "sribazim-fort",
+      "source": "sribazim-fort.png",
+      "output": "sribazim-fort.png"
+    },
+    {
+      "slug": "sridet-10",
+      "source": "sridet-10.png",
+      "output": "sridet-10.png"
+    },
+    {
+      "slug": "sridet-5",
+      "source": "sridet-5.png",
+      "output": "sridet-5.png"
+    },
+    {
+      "slug": "srifluz-b",
+      "source": "srifluz-b.png",
+      "output": "srifluz-b.png"
+    },
+    {
+      "slug": "srifram-250",
+      "source": "srifram-250.jpeg",
+      "output": "srifram-250.png"
+    },
+    {
+      "slug": "srifram-500",
+      "source": "srifram-500.jpeg",
+      "output": "srifram-500.png"
+    },
+    {
+      "slug": "sriga-150",
+      "source": "sriga-150.png",
+      "output": "sriga-150.png"
+    },
+    {
+      "slug": "srimine-1500",
+      "source": "srimine-1500.png",
+      "output": "srimine-1500.png"
+    },
+    {
+      "slug": "srimine-500",
+      "source": "srimine-500.png",
+      "output": "srimine-500.png"
+    },
+    {
+      "slug": "srinza-10",
+      "source": "srinza-10.png",
+      "output": "srinza-10.png"
+    },
+    {
+      "slug": "srinza-25",
+      "source": "srinza-25.png",
+      "output": "srinza-25.png"
+    },
+    {
+      "slug": "srinza-5-md",
+      "source": "srinza-5-md.png",
+      "output": "srinza-5-md.png"
+    },
+    {
+      "slug": "srinza-5-tab",
+      "source": "srinza-5-tab.png",
+      "output": "srinza-5-tab.png"
+    },
+    {
+      "slug": "sripar-2",
+      "source": "sripar-2.png",
+      "output": "sripar-2.png"
+    },
+    {
+      "slug": "sripar-3",
+      "source": "sripar-3.png",
+      "output": "sripar-3.png"
+    },
+    {
+      "slug": "sripilin-100",
+      "source": "sripilin-100.png",
+      "output": "sripilin-100.png"
+    },
+    {
+      "slug": "sripilin-300",
+      "source": "sripilin-300.png",
+      "output": "sripilin-300.png"
+    },
+    {
+      "slug": "sripiral-300",
+      "source": "sripiral-300.png",
+      "output": "sripiral-300.png"
+    },
+    {
+      "slug": "sripiral-600",
+      "source": "sripiral-600.png",
+      "output": "sripiral-600.png"
+    },
+    {
+      "slug": "sripline-10",
+      "source": "sripline-10.jpeg",
+      "output": "sripline-10.png"
+    },
+    {
+      "slug": "sripram-025",
+      "source": "sripram-025.png",
+      "output": "sripram-025.png"
+    },
+    {
+      "slug": "sripram-1",
+      "source": "sripram-1.png",
+      "output": "sripram-1.png"
+    },
+    {
+      "slug": "sripram-10",
+      "source": "sripram-10.png",
+      "output": "sripram-10.png"
+    },
+    {
+      "slug": "sriprid-100",
+      "source": "sriprid-100.png",
+      "output": "sriprid-100.png"
+    },
+    {
+      "slug": "sriprid-50",
+      "source": "sriprid-50.png",
+      "output": "sriprid-50.png"
+    },
+    {
+      "slug": "sriproz-lt",
+      "source": "sriproz-lt.png",
+      "output": "sriproz-lt.png"
+    },
+    {
+      "slug": "sritane-10",
+      "source": "sritane-10.png",
+      "output": "sritane-10.png"
+    },
+    {
+      "slug": "sritane-5",
+      "source": "sritane-5.png",
+      "output": "sritane-5.png"
+    },
+    {
+      "slug": "srithan-5",
+      "source": "srithan-5.jpeg",
+      "output": "srithan-5.png"
+    },
+    {
+      "slug": "srithio-25",
+      "source": "srithio-25.png",
+      "output": "srithio-25.png"
+    },
+    {
+      "slug": "sritivan-050",
+      "source": "sritivan-050.png",
+      "output": "sritivan-050.png"
+    },
+    {
+      "slug": "sritivan-1",
+      "source": "sritivan-1.png",
+      "output": "sritivan-1.png"
+    },
+    {
+      "slug": "sritivan-2",
+      "source": "sritivan-2.png",
+      "output": "sritivan-2.png"
+    },
+    {
+      "slug": "sritrl-100",
+      "source": "sritrl-100.jpeg",
+      "output": "sritrl-100.png"
+    },
+    {
+      "slug": "sritrl-50",
+      "source": "sritrl-50.jpeg",
+      "output": "sritrl-50.png"
+    },
+    {
+      "slug": "sritrola-10",
+      "source": "sritrola-10.png",
+      "output": "sritrola-10.png"
+    },
+    {
+      "slug": "sritrola-40",
+      "source": "sritrola-40.png",
+      "output": "sritrola-40.png"
+    },
+    {
+      "slug": "srivena-375",
+      "source": "srivena-375.png",
+      "output": "srivena-375.png"
+    },
+    {
+      "slug": "srivena-75",
+      "source": "srivena-75.png",
+      "output": "srivena-75.png"
+    },
+    {
+      "slug": "srivita-fort",
+      "source": "srivita-fort.png",
+      "output": "srivita-fort.png"
+    },
+    {
+      "slug": "srivita-mts",
+      "source": "srivita-mts.png",
+      "output": "srivita-mts.png"
+    },
+    {
+      "slug": "srivita-v",
+      "source": "srivita-v.png",
+      "output": "srivita-v.png"
+    },
+    {
+      "slug": "srixone-25",
+      "source": "srixone-25.jpeg",
+      "output": "srixone-25.png"
+    },
+    {
+      "slug": "srizodone-100",
+      "source": "srizodone-100.png",
+      "output": "srizodone-100.png"
+    },
+    {
+      "slug": "srizodone-50",
+      "source": "srizodone-50.png",
+      "output": "srizodone-50.png"
+    },
+    {
+      "slug": "srizodone-d",
+      "source": "srizodone-d.png",
+      "output": "srizodone-d.png"
+    },
+    {
+      "slug": "suxevin-25",
+      "source": "suxevin-25.jpeg",
+      "output": "suxevin-25.png"
+    },
+    {
+      "slug": "unzolam-025",
+      "source": "unzolam-025.jpeg",
+      "output": "unzolam-025.png"
+    },
+    {
+      "slug": "unzolam-050",
+      "source": "unzolam-050.jpeg",
+      "output": "unzolam-050.png"
+    }
+  ],
+  "skippedClean": [
+    {
+      "slug": "chlozapam-010",
+      "source": "chlozapam-010.jpeg",
+      "output": "chlozapam-010.png"
+    },
+    {
+      "slug": "citlopram-10",
+      "source": "citlopram-10.png",
+      "output": "citlopram-10.png"
+    },
+    {
+      "slug": "citlopram-5",
+      "source": "citlopram-5.png",
+      "output": "citlopram-5.png"
+    },
+    {
+      "slug": "citlopram-plus-20",
+      "source": "citlopram-plus-20.png",
+      "output": "citlopram-plus-20.png"
+    },
+    {
+      "slug": "gebelin-forte",
+      "source": "gebelin-forte.png",
+      "output": "gebelin-forte.png"
+    },
+    {
+      "slug": "nitzpam-10",
+      "source": "nitzpam-10.jpeg",
+      "output": "nitzpam-10.png"
+    },
+    {
+      "slug": "samogin-100-disp",
+      "source": "samogin-100-disp.png",
+      "output": "samogin-100-disp.png"
+    },
+    {
+      "slug": "samogin-50-disp",
+      "source": "samogin-50-disp.png",
+      "output": "samogin-50-disp.png"
+    },
+    {
+      "slug": "shirbec-100-syrup",
+      "source": "shirbec-100-syrup.png",
+      "output": "shirbec-100-syrup.png"
+    },
+    {
+      "slug": "shirbec-250",
+      "source": "shirbec-250.png",
+      "output": "shirbec-250.png"
+    },
+    {
+      "slug": "shirbec-500",
+      "source": "shirbec-500.png",
+      "output": "shirbec-500.png"
+    },
+    {
+      "slug": "shirbec-500-blister",
+      "source": "shirbec-500-blister.png",
+      "output": "shirbec-500-blister.png"
+    },
+    {
+      "slug": "shirbec-750",
+      "source": "shirbec-750.png",
+      "output": "shirbec-750.png"
+    },
+    {
+      "slug": "silepram-50",
+      "source": "silepram-50.jpeg",
+      "output": "silepram-50.png"
+    },
+    {
+      "slug": "sluvox-100",
+      "source": "sluvox-100.png",
+      "output": "sluvox-100.png"
+    },
+    {
+      "slug": "sluvox-50",
+      "source": "sluvox-50.png",
+      "output": "sluvox-50.png"
+    },
+    {
+      "slug": "smimine-75",
+      "source": "smimine-75.jpeg",
+      "output": "smimine-75.png"
+    },
+    {
+      "slug": "smimine-d",
+      "source": "smimine-d.jpeg",
+      "output": "smimine-d.png"
+    },
+    {
+      "slug": "sricat-333",
+      "source": "sricat-333.jpeg",
+      "output": "sricat-333.png"
+    },
+    {
+      "slug": "sricat-666",
+      "source": "sricat-666.jpeg",
+      "output": "sricat-666.png"
+    },
+    {
+      "slug": "sriepa-100",
+      "source": "sriepa-100.png",
+      "output": "sriepa-100.png"
+    },
+    {
+      "slug": "sriepa-c-250",
+      "source": "sriepa-c-250.png",
+      "output": "sriepa-c-250.png"
+    },
+    {
+      "slug": "sriepa-cl",
+      "source": "sriepa-cl.png",
+      "output": "sriepa-cl.png"
+    },
+    {
+      "slug": "sriga-75",
+      "source": "sriga-75.png",
+      "output": "sriga-75.png"
+    },
+    {
+      "slug": "sriga-e",
+      "source": "sriga-e.png",
+      "output": "sriga-e.png"
+    },
+    {
+      "slug": "srimitor-1335",
+      "source": "srimitor-1335.png",
+      "output": "srimitor-1335.png"
+    },
+    {
+      "slug": "srimitor-200",
+      "source": "srimitor-200.png",
+      "output": "srimitor-200.png"
+    },
+    {
+      "slug": "sripar-4",
+      "source": "sripar-4.png",
+      "output": "sripar-4.png"
+    },
+    {
+      "slug": "sripline-25",
+      "source": "sripline-25.jpeg",
+      "output": "sripline-25.png"
+    },
+    {
+      "slug": "srithan-10",
+      "source": "srithan-10.jpeg",
+      "output": "srithan-10.png"
+    },
+    {
+      "slug": "srixone-50",
+      "source": "srixone-50.jpeg",
+      "output": "srixone-50.png"
+    },
+    {
+      "slug": "srizpo-10",
+      "source": "srizpo-10.png",
+      "output": "srizpo-10.png"
+    },
+    {
+      "slug": "srizpo-c",
+      "source": "srizpo-c.png",
+      "output": "srizpo-c.png"
+    },
+    {
+      "slug": "srvon-spas-plus",
+      "source": "srvon-spas-plus.png",
+      "output": "srvon-spas-plus.png"
+    },
+    {
+      "slug": "sudex-100",
+      "source": "sudex-100.jpeg",
+      "output": "sudex-100.png"
+    },
+    {
+      "slug": "sudex-50",
+      "source": "sudex-50.png",
+      "output": "sudex-50.png"
+    },
+    {
+      "slug": "suloxetin-20",
+      "source": "suloxetin-20.png",
+      "output": "suloxetin-20.png"
+    },
+    {
+      "slug": "suloxetin-40",
+      "source": "suloxetin-40.png",
+      "output": "suloxetin-40.png"
+    },
+    {
+      "slug": "suxevin-12-5",
+      "source": "suxevin-12-5.jpeg",
+      "output": "suxevin-12-5.png"
+    },
+    {
+      "slug": "unzolam-p",
+      "source": "unzolam-p.png",
+      "output": "unzolam-p.png"
+    }
+  ],
+  "failed": []
+}

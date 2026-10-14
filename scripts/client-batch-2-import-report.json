@@ -1,0 +1,117 @@
+{
+  "totalAttached": 26,
+  "replaced": [
+    {
+      "slug": "citlopram-5",
+      "filename": "Citlopram__5-b8c181a3-c066-47b0-8d81-e8fbb8f833da.png"
+    },
+    {
+      "slug": "unzolam-p",
+      "filename": "3D_UNZOLAM_P-66442231-5467-4932-9492-29fc4733bf7f.png"
+    },
+    {
+      "slug": "chlozapam-010",
+      "filename": "Chlozapam___0.10-b8f2e00a-4a0f-4bbc-b25e-2bb0435c576b.png"
+    },
+    {
+      "slug": "chlozapam-050",
+      "filename": "Chlozapam___0.5-98c9a4c0-14dc-47d3-9f0f-11ade4a21c68.png"
+    },
+    {
+      "slug": "nitzpam-5",
+      "filename": "NITZPAM_5-95040f6a-c657-44c3-9947-491b6afaa887.png"
+    },
+    {
+      "slug": "nitzpam-10",
+      "filename": "NITZPAM_10-e7d7c442-1fb2-4a3f-8b4c-40e0cf9b624a.png"
+    },
+    {
+      "slug": "silepram-25",
+      "filename": "Silepram_25_-99659aca-425f-4534-8d7c-a46f1d2529cd.png"
+    },
+    {
+      "slug": "aegon-02",
+      "filename": "Aegon____0.2-f7a34a2e-84ec-40d6-abda-46fa67400486.png"
+    },
+    {
+      "slug": "aegon-04",
+      "filename": "Aegon__0.4-4970b4e3-a636-4075-9f40-eaedd009f1a2.png"
+    },
+    {
+      "slug": "sluvox-100",
+      "filename": "SLUVOX__100-02273245-7d5a-4083-8bfd-f5a8a96c2385.png"
+    },
+    {
+      "slug": "sricat-666",
+      "filename": "Sricat__666-41055170-416b-47a3-b4d4-28b1167f57bd.png"
+    },
+    {
+      "slug": "aegon-sr",
+      "filename": "Aegon__SR_f-9b7d3fba-0330-4c7f-8ef1-a0e858256fec.png"
+    },
+    {
+      "slug": "sricat-333",
+      "filename": "Sricat__333-dedd5556-2dd0-4e0b-aa94-680c6d36fb18.png"
+    },
+    {
+      "slug": "citlopram-10",
+      "filename": "Citlopram_10-b0ad099f-9a7e-46c3-93a6-c41bcba8f8ae.png"
+    },
+    {
+      "slug": "spdem-5",
+      "filename": "SPDEM_5-17488654-991b-4543-b2c4-bb39923b17a3.png"
+    },
+    {
+      "slug": "aegon-s",
+      "filename": "Aegon__S_01-040d6086-dfef-466b-b185-b03a20293f57.png"
+    }
+  ],
+  "added": [
+    {
+      "slug": "sirtam-syrup",
+      "filename": "SIRTAM_SYRUPS-05b2897a-038f-469a-8f3a-a69a8be5e184.png"
+    },
+    {
+      "slug": "citlopram-s-plus",
+      "filename": "CITLOPRAM_S_PLUS-4285042b-8a98-46ec-a592-1946e7ddb3db.png"
+    },
+    {
+      "slug": "shricet-syrup",
+      "filename": "SHRICET_SYRUPS-529dbd25-cb8d-41e6-af1b-d2416970eeaf.png"
+    },
+    {
+      "slug": "sredol-ds",
+      "filename": "SREDOL_DS-fd74c9ed-0de7-4a87-bf94-3898d646952a.png"
+    },
+    {
+      "slug": "shricet-inj",
+      "filename": "SHRICET-f76aa24c-9dfa-4965-af27-c9ddffa22e7d.png"
+    },
+    {
+      "slug": "sredol-p",
+      "filename": "SREDOL__P-b6d7bd77-99cc-45c2-8d34-4e34c39e55c1.png"
+    },
+    {
+      "slug": "srenet",
+      "filename": "SIRTAM-f28b8ed2-ceb1-44dd-a6ad-de521a89455d.png"
+    },
+    {
+      "slug": "shricet-500",
+      "filename": "SHRICET__500-b61ce9d7-7505-4a87-a0cd-23933d5b7e05.png"
+    },
+    {
+      "slug": "sredol-50",
+      "filename": "SREDOL__50-15049497-6b22-456b-a99c-547370ffa2cc.png"
+    },
+    {
+      "slug": "shricet-p",
+      "filename": "SHRICET__P-89976e26-0278-495e-b760-df35f9746ff0.png"
+    }
+  ],
+  "unmatched": [],
+  "missingFile": [],
+  "duplicatesSkipped": [],
+  "notes": [
+    "SIRTAM injection image mapped to catalog slug srenet (Piracetam Injection 200 mg/ml)."
+  ]
+}

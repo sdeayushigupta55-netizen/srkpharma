@@ -1,0 +1,969 @@
+{
+  "meta": {
+    "generatedAt": "2026-09-05",
+    "totalWhatsAppImages": 65,
+    "uniqueProductsIdentified": 39,
+    "existingNamedImages": ["chlozapam.png", "unzolam-p.png"],
+    "note": "65 WhatsApp images map to 39 unique products. The site catalog has 62 products total (2 real + 60 placeholders in products.ts); only the 39 photographed products below have packaging images."
+  },
+  "mappings": [
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.07 PM (1).jpeg",
+      "brandName": "UNZOLAM P",
+      "genericName": "Etizolam & Propranolol Hydrochloride Tablets",
+      "composition": "Etizolam IP 0.50 mg + Propranolol Hydrochloride IP 40 mg",
+      "dosage": "Etizolam 0.50 mg / Propranolol HCl 40 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "NRx",
+      "suggestedSlug": "unzolam-p",
+      "isDuplicateOf": "unzolam-p.png"
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.07 PM.jpeg",
+      "brandName": "CHLOZAPAM 0.50",
+      "genericName": "Clonazepam Tablets IP",
+      "composition": "Clonazepam IP 0.50 mg",
+      "dosage": "0.50 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "NRx",
+      "suggestedSlug": "chlozapam-050",
+      "isDuplicateOf": "chlozapam.png"
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.08 PM (1).jpeg",
+      "brandName": "UNZOLAM 0.25",
+      "genericName": "Etizolam Tablets IP",
+      "composition": "Etizolam IP 0.25 mg",
+      "dosage": "0.25 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "NRx",
+      "suggestedSlug": "unzolam-025",
+      "isDuplicateOf": null
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.08 PM (2).jpeg",
+      "brandName": "CHLOZAPAM 0.25",
+      "genericName": "Clonazepam Tablets IP",
+      "composition": "Clonazepam IP 0.25 mg",
+      "dosage": "0.25 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "NRx",
+      "suggestedSlug": "chlozapam-025",
+      "isDuplicateOf": null
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.08 PM (3).jpeg",
+      "brandName": "MARLBOO SR",
+      "genericName": "Sertraline And Alprazolam SR Tablets",
+      "composition": "Sertraline + Alprazolam (SR)",
+      "dosage": "SR (mg not visible on this design)",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "Rx",
+      "suggestedSlug": "marlboo-sr",
+      "isDuplicateOf": "WhatsApp Image 2026-09-05 at 4.18.17 PM.jpeg"
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.08 PM.jpeg",
+      "brandName": "SILEPRAM 50",
+      "genericName": "Milnacipran hydrochloride Tablets IP",
+      "composition": "Milnacipran hydrochloride IP 50 mg",
+      "dosage": "50 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "Rx",
+      "suggestedSlug": "silepram-50",
+      "isDuplicateOf": null
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.09 PM (1).jpeg",
+      "brandName": "SUXEVIN 12.5",
+      "genericName": "Paroxetine Controlled Release Tablets IP",
+      "composition": "Paroxetine Hydrochloride IP equivalent to Paroxetine 12.5 mg (controlled release)",
+      "dosage": "12.5 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "Rx",
+      "suggestedSlug": "suxevin-12-5",
+      "isDuplicateOf": null
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.09 PM (2).jpeg",
+      "brandName": "SRITHAN 5",
+      "genericName": "Methadone hydrochloride IP",
+      "composition": "Methadone hydrochloride IP 5 mg",
+      "dosage": "5 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "Rx",
+      "suggestedSlug": "srithan-5",
+      "isDuplicateOf": null
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.09 PM.jpeg",
+      "brandName": "SMIMINE D",
+      "genericName": "Imipramine Hydrochloride & Diazepam Tablets",
+      "composition": "Imipramine Hydrochloride + Diazepam",
+      "dosage": "Not visible on packaging",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "NRx",
+      "suggestedSlug": "smimine-d",
+      "isDuplicateOf": null
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.10 PM (1).jpeg",
+      "brandName": "SRICAT 333",
+      "genericName": "Acamprosate Calcium Tablets",
+      "composition": "Acamprosate Calcium equivalent to Acamprosate 333 mg",
+      "dosage": "333 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "Rx",
+      "suggestedSlug": "sricat-333",
+      "isDuplicateOf": null
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.10 PM (2).jpeg",
+      "brandName": "CITLOPRAM PLUS",
+      "genericName": "Escitalopram Oxalate and Clonazepam Tablets IP",
+      "composition": "Escitalopram Oxalate IP equivalent to Escitalopram 10 mg + Clonazepam IP 0.50 mg",
+      "dosage": "Escitalopram 10 mg / Clonazepam 0.50 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "NRx",
+      "suggestedSlug": "citlopram-plus",
+      "isDuplicateOf": null
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.10 PM.jpeg",
+      "brandName": "SILEPRAM 25",
+      "genericName": "Milnacipran hydrochloride Tablets IP",
+      "composition": "Milnacipran hydrochloride IP 25 mg",
+      "dosage": "25 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "Rx",
+      "suggestedSlug": "silepram-25",
+      "isDuplicateOf": "WhatsApp Image 2026-09-05 at 4.18.27 PM (2).jpeg"
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.11 PM (1).jpeg",
+      "brandName": "SRITRL 50",
+      "genericName": "Sertraline hydrochloride Tablets IP",
+      "composition": "Sertraline hydrochloride IP 50 mg",
+      "dosage": "50 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "Rx",
+      "suggestedSlug": "sritrl-50",
+      "isDuplicateOf": null
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.11 PM (2).jpeg",
+      "brandName": "SRITHAN 10",
+      "genericName": "Methadone hydrochloride IP",
+      "composition": "Methadone hydrochloride IP 10 mg",
+      "dosage": "10 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "Rx",
+      "suggestedSlug": "srithan-10",
+      "isDuplicateOf": null
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.11 PM.jpeg",
+      "brandName": "SRITRL 50",
+      "genericName": "Sertraline hydrochloride Tablets IP",
+      "composition": "Sertraline hydrochloride IP 50 mg",
+      "dosage": "50 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "Rx",
+      "suggestedSlug": "sritrl-50",
+      "isDuplicateOf": "WhatsApp Image 2026-09-05 at 4.18.11 PM (1).jpeg"
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.12 PM (1).jpeg",
+      "brandName": "CHLOZAPAM 0.50",
+      "genericName": "Clonazepam Tablets IP",
+      "composition": "Clonazepam IP 0.50 mg",
+      "dosage": "0.50 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "NRx",
+      "suggestedSlug": "chlozapam-050",
+      "isDuplicateOf": "chlozapam.png"
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.12 PM (2).jpeg",
+      "brandName": "CHLOZAPAM 0.50",
+      "genericName": "Clonazepam Tablets IP",
+      "composition": "Clonazepam IP 0.50 mg",
+      "dosage": "0.50 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "NRx",
+      "suggestedSlug": "chlozapam-050",
+      "isDuplicateOf": "chlozapam.png"
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.12 PM.jpeg",
+      "brandName": "AEGON S",
+      "genericName": "Buprenorphine & Naloxone Sublingual Tablets IP",
+      "composition": "Buprenorphine IP 0.4 mg + Naloxone IP 0.1 mg",
+      "dosage": "Buprenorphine 0.4 mg / Naloxone 0.1 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "NRx",
+      "suggestedSlug": "aegon-s",
+      "isDuplicateOf": null
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.13 PM (1).jpeg",
+      "brandName": "AEGON SR",
+      "genericName": "Buprenorphine & Naloxone Sublingual Tablets IP",
+      "composition": "Buprenorphine IP 2 mg + Naloxone IP 0.5 mg",
+      "dosage": "Buprenorphine 2 mg / Naloxone 0.5 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "NRx",
+      "suggestedSlug": "aegon-sr",
+      "isDuplicateOf": null
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.13 PM (2).jpeg",
+      "brandName": "SMIMINE 25",
+      "genericName": "Imipramine Hydrochloride IP",
+      "composition": "Imipramine Hydrochloride IP 25 mg",
+      "dosage": "25 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "Rx",
+      "suggestedSlug": "smimine-25",
+      "isDuplicateOf": null
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.13 PM.jpeg",
+      "brandName": "KROGER 5",
+      "genericName": "Diazepam Tablets I.P.",
+      "composition": "Diazepam I.P. 5 mg",
+      "dosage": "5 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "NRx",
+      "suggestedSlug": "kroger-5",
+      "isDuplicateOf": null
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.14 PM (1).jpeg",
+      "brandName": "CHLOZAPAM 0.10",
+      "genericName": "Clonazepam IP Tablets",
+      "composition": "Clonazepam IP 0.10 mg",
+      "dosage": "0.10 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "NRx",
+      "suggestedSlug": "chlozapam-010",
+      "isDuplicateOf": null
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.14 PM.jpeg",
+      "brandName": "CHLOZAPAM 0.25",
+      "genericName": "Clonazepam Tablets IP",
+      "composition": "Clonazepam IP 0.25 mg",
+      "dosage": "0.25 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "NRx",
+      "suggestedSlug": "chlozapam-025",
+      "isDuplicateOf": "WhatsApp Image 2026-09-05 at 4.18.08 PM (2).jpeg"
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.15 PM (1).jpeg",
+      "brandName": "SILEPRAM 25",
+      "genericName": "Milnacipran hydrochloride Tablets IP",
+      "composition": "Milnacipran hydrochloride IP 25 mg",
+      "dosage": "25 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "Not visible on this design",
+      "suggestedSlug": "silepram-25",
+      "isDuplicateOf": "WhatsApp Image 2026-09-05 at 4.18.27 PM (2).jpeg"
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.15 PM.jpeg",
+      "brandName": "SMIMINE FORT",
+      "genericName": "Imipramine Hydrochloride & Diazepam Tablets",
+      "composition": "Imipramine Hydrochloride IP 25 mg + Diazepam IP 5 mg",
+      "dosage": "Imipramine 25 mg / Diazepam 5 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "NRx",
+      "suggestedSlug": "smimine-fort",
+      "isDuplicateOf": null
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.16 PM (1).jpeg",
+      "brandName": "SMIMINE 75",
+      "genericName": "Imipramine Hydrochloride IP",
+      "composition": "Imipramine Hydrochloride IP 75 mg",
+      "dosage": "75 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "Rx",
+      "suggestedSlug": "smimine-75",
+      "isDuplicateOf": null
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.16 PM (2).jpeg",
+      "brandName": "MARLBOO 0.25",
+      "genericName": "Alprazolam Tablets IP",
+      "composition": "Alprazolam IP 0.25 mg",
+      "dosage": "0.25 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "NRx",
+      "suggestedSlug": "marlboo-025",
+      "isDuplicateOf": null
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.16 PM.jpeg",
+      "brandName": "CHLOZAPAM 0.25",
+      "genericName": "Clonazepam Tablets IP",
+      "composition": "Clonazepam IP 0.25 mg",
+      "dosage": "0.25 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "NRx",
+      "suggestedSlug": "chlozapam-025",
+      "isDuplicateOf": "WhatsApp Image 2026-09-05 at 4.18.08 PM (2).jpeg"
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.17 PM (1).jpeg",
+      "brandName": "SRIXONE 50",
+      "genericName": "Naltrexone Hydrochloride IP",
+      "composition": "Naltrexone Hydrochloride IP 50 mg",
+      "dosage": "50 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "Rx",
+      "suggestedSlug": "srixone-50",
+      "isDuplicateOf": "WhatsApp Image 2026-09-05 at 4.18.25 PM.jpeg"
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.17 PM (2).jpeg",
+      "brandName": "SRICAT 333",
+      "genericName": "Acamprosate Calcium Tablets",
+      "composition": "Acamprosate Calcium equivalent to Acamprosate 333 mg",
+      "dosage": "333 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "Rx",
+      "suggestedSlug": "sricat-333",
+      "isDuplicateOf": "WhatsApp Image 2026-09-05 at 4.18.10 PM (1).jpeg"
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.17 PM (3).jpeg",
+      "brandName": "SRITRL 100",
+      "genericName": "Sertraline hydrochloride Tablets IP",
+      "composition": "Sertraline hydrochloride IP 100 mg",
+      "dosage": "100 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "Rx",
+      "suggestedSlug": "sritrl-100",
+      "isDuplicateOf": null
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.17 PM.jpeg",
+      "brandName": "MARLBOO SR",
+      "genericName": "Sertraline And Alprazolam SR Tablets",
+      "composition": "Sertraline 75 mg + Alprazolam 0.5 mg",
+      "dosage": "Sertraline 75 mg / Alprazolam 0.5 mg (SR)",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "NRx",
+      "suggestedSlug": "marlboo-sr",
+      "isDuplicateOf": null
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.18 PM (1).jpeg",
+      "brandName": "SRIFRAM 250",
+      "genericName": "Disulfiram Tablets IP",
+      "composition": "Disulfiram IP 250 mg",
+      "dosage": "250 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "Rx",
+      "suggestedSlug": "srifram-250",
+      "isDuplicateOf": "WhatsApp Image 2026-09-05 at 4.18.28 PM (1).jpeg"
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.18 PM (2).jpeg",
+      "brandName": "AEGON 0.4",
+      "genericName": "Buprenorphine Sublingual Tablets IP",
+      "composition": "Buprenorphine IP 0.4 mg",
+      "dosage": "0.4 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "NRx",
+      "suggestedSlug": "aegon-04",
+      "isDuplicateOf": null
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.18 PM.jpeg",
+      "brandName": "MARLBOO 0.25",
+      "genericName": "Alprazolam Tablets IP",
+      "composition": "Alprazolam IP 0.25 mg",
+      "dosage": "0.25 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "NRx",
+      "suggestedSlug": "marlboo-025",
+      "isDuplicateOf": "WhatsApp Image 2026-09-05 at 4.18.16 PM (2).jpeg"
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.19 PM (1).jpeg",
+      "brandName": "AEGON 0.2",
+      "genericName": "Buprenorphine Sublingual Tablets IP",
+      "composition": "Buprenorphine IP 0.2 mg",
+      "dosage": "0.2 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "NRx",
+      "suggestedSlug": "aegon-02",
+      "isDuplicateOf": null
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.19 PM.jpeg",
+      "brandName": "SRITRL 50",
+      "genericName": "Sertraline hydrochloride Tablets IP",
+      "composition": "Sertraline hydrochloride IP 50 mg",
+      "dosage": "50 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "Rx",
+      "suggestedSlug": "sritrl-50",
+      "isDuplicateOf": "WhatsApp Image 2026-09-05 at 4.18.11 PM (1).jpeg"
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.20 PM (1).jpeg",
+      "brandName": "MARLBOO 0.50",
+      "genericName": "Alprazolam Tablets IP",
+      "composition": "Alprazolam IP 0.50 mg",
+      "dosage": "0.50 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "NRx",
+      "suggestedSlug": "marlboo-050",
+      "isDuplicateOf": null
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.20 PM (2).jpeg",
+      "brandName": "MARLBOO SR",
+      "genericName": "Sertraline And Alprazolam SR Tablets",
+      "composition": "Sertraline 75 mg + Alprazolam 0.5 mg",
+      "dosage": "Sertraline 75 mg / Alprazolam 0.5 mg (SR)",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "NRx",
+      "suggestedSlug": "marlboo-sr",
+      "isDuplicateOf": "WhatsApp Image 2026-09-05 at 4.18.17 PM.jpeg"
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.20 PM (3).jpeg",
+      "brandName": "SMIMINE 25",
+      "genericName": "Imipramine Hydrochloride IP",
+      "composition": "Imipramine Hydrochloride IP 25 mg",
+      "dosage": "25 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "Rx",
+      "suggestedSlug": "smimine-25",
+      "isDuplicateOf": "WhatsApp Image 2026-09-05 at 4.18.13 PM (2).jpeg"
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.20 PM.jpeg",
+      "brandName": "SRIPLINE 25",
+      "genericName": "Amitriptyline Hydrochloride IP",
+      "composition": "Amitriptyline Hydrochloride IP 25 mg",
+      "dosage": "25 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "Rx",
+      "suggestedSlug": "sripline-25",
+      "isDuplicateOf": null
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.21 PM (1).jpeg",
+      "brandName": "CLONAZEPAM P",
+      "genericName": "Clonazepam & Propranolol HCl (SR) Tablets",
+      "composition": "Clonazepam IP 0.50 mg + Propranolol HCl IP 20 mg (SR)",
+      "dosage": "Clonazepam 0.50 mg / Propranolol HCl 20 mg (SR)",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "NRx",
+      "suggestedSlug": "clonazepam-p",
+      "isDuplicateOf": null
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.21 PM.jpeg",
+      "brandName": "SRIXONE 25",
+      "genericName": "Naltrexone Hydrochloride IP",
+      "composition": "Naltrexone Hydrochloride IP 25 mg",
+      "dosage": "25 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "Rx",
+      "suggestedSlug": "srixone-25",
+      "isDuplicateOf": null
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.22 PM (1).jpeg",
+      "brandName": "UNZOLAM P",
+      "genericName": "Etizolam & Propranolol Hydrochloride Tablets",
+      "composition": "Etizolam IP 0.50 mg + Propranolol Hydrochloride IP 40 mg",
+      "dosage": "Etizolam 0.50 mg / Propranolol HCl 40 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "NRx",
+      "suggestedSlug": "unzolam-p",
+      "isDuplicateOf": "unzolam-p.png"
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.22 PM (2).jpeg",
+      "brandName": "NITZPAM 5",
+      "genericName": "Nitrazepam Tablets I.P.",
+      "composition": "Nitrazepam I.P. 5 mg",
+      "dosage": "5 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "NRx",
+      "suggestedSlug": "nitzpam-5",
+      "isDuplicateOf": null
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.22 PM.jpeg",
+      "brandName": "CHLOZAPAM 0.25",
+      "genericName": "Clonazepam Tablets IP",
+      "composition": "Clonazepam IP 0.25 mg",
+      "dosage": "0.25 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "NRx",
+      "suggestedSlug": "chlozapam-025",
+      "isDuplicateOf": "WhatsApp Image 2026-09-05 at 4.18.08 PM (2).jpeg"
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.23 PM (1).jpeg",
+      "brandName": "SRIFRAM 500",
+      "genericName": "Disulfiram Tablets IP",
+      "composition": "Disulfiram IP 500 mg",
+      "dosage": "500 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "Rx",
+      "suggestedSlug": "srifram-500",
+      "isDuplicateOf": null
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.23 PM (2).jpeg",
+      "brandName": "CLONAZEPAM P",
+      "genericName": "Clonazepam & Propranolol HCl (SR) Tablets",
+      "composition": "Clonazepam IP 0.50 mg + Propranolol HCl IP 20 mg (SR)",
+      "dosage": "Clonazepam 0.50 mg / Propranolol HCl 20 mg (SR)",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "NRx",
+      "suggestedSlug": "clonazepam-p",
+      "isDuplicateOf": "WhatsApp Image 2026-09-05 at 4.18.21 PM (1).jpeg"
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.23 PM.jpeg",
+      "brandName": "SUDEX 100",
+      "genericName": "Sildenafil Citrate Tablets IP",
+      "composition": "Sildenafil Citrate IP 100 mg",
+      "dosage": "100 mg",
+      "packSize": "1 x 4 Tablets",
+      "prescriptionType": "Not visible on packaging",
+      "suggestedSlug": "sudex-100",
+      "isDuplicateOf": null
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.24 PM (1).jpeg",
+      "brandName": "CITLOPRAM PLUS",
+      "genericName": "Escitalopram Oxalate and Clonazepam Tablets IP",
+      "composition": "Escitalopram Oxalate IP equivalent to Escitalopram 10 mg + Clonazepam IP 0.50 mg",
+      "dosage": "Escitalopram 10 mg / Clonazepam 0.50 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "NRx",
+      "suggestedSlug": "citlopram-plus",
+      "isDuplicateOf": "WhatsApp Image 2026-09-05 at 4.18.10 PM (2).jpeg"
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.24 PM (2).jpeg",
+      "brandName": "SUXEVIN 12.5",
+      "genericName": "Paroxetine Controlled Release Tablets IP",
+      "composition": "Paroxetine Hydrochloride IP equivalent to Paroxetine 12.5 mg (controlled release)",
+      "dosage": "12.5 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "Rx",
+      "suggestedSlug": "suxevin-12-5",
+      "isDuplicateOf": "WhatsApp Image 2026-09-05 at 4.18.09 PM (1).jpeg"
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.24 PM (3).jpeg",
+      "brandName": "UNZOLAM 0.50",
+      "genericName": "Etizolam Tablets IP",
+      "composition": "Etizolam IP 0.50 mg",
+      "dosage": "0.50 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "NRx",
+      "suggestedSlug": "unzolam-050",
+      "isDuplicateOf": null
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.24 PM.jpeg",
+      "brandName": "SUXEVIN 25",
+      "genericName": "Paroxetine Controlled Release Tablets IP",
+      "composition": "Paroxetine Hydrochloride IP equivalent to Paroxetine 25 mg (controlled release)",
+      "dosage": "25 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "Rx",
+      "suggestedSlug": "suxevin-25",
+      "isDuplicateOf": null
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.25 PM (1).jpeg",
+      "brandName": "SRIXONE 25",
+      "genericName": "Naltrexone Hydrochloride IP",
+      "composition": "Naltrexone Hydrochloride IP 25 mg",
+      "dosage": "25 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "Rx",
+      "suggestedSlug": "srixone-25",
+      "isDuplicateOf": "WhatsApp Image 2026-09-05 at 4.18.21 PM.jpeg"
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.25 PM (2).jpeg",
+      "brandName": "SRITRL 100",
+      "genericName": "Sertraline hydrochloride Tablets IP",
+      "composition": "Sertraline hydrochloride IP 100 mg",
+      "dosage": "100 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "Rx",
+      "suggestedSlug": "sritrl-100",
+      "isDuplicateOf": "WhatsApp Image 2026-09-05 at 4.18.17 PM (3).jpeg"
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.25 PM.jpeg",
+      "brandName": "SRIXONE 50",
+      "genericName": "Naltrexone Hydrochloride IP",
+      "composition": "Naltrexone Hydrochloride IP 50 mg",
+      "dosage": "50 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "Rx",
+      "suggestedSlug": "srixone-50",
+      "isDuplicateOf": null
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.26 PM (1).jpeg",
+      "brandName": "MARLBOO 0.25",
+      "genericName": "Alprazolam Tablets IP",
+      "composition": "Alprazolam IP 0.25 mg",
+      "dosage": "0.25 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "NRx",
+      "suggestedSlug": "marlboo-025",
+      "isDuplicateOf": "WhatsApp Image 2026-09-05 at 4.18.16 PM (2).jpeg"
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.26 PM (2).jpeg",
+      "brandName": "SRIPLINE 10",
+      "genericName": "Amitriptyline Hydrochloride IP",
+      "composition": "Amitriptyline Hydrochloride IP 10 mg",
+      "dosage": "10 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "Rx",
+      "suggestedSlug": "sripline-10",
+      "isDuplicateOf": null
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.26 PM.jpeg",
+      "brandName": "CHLOZAPAM 0.50",
+      "genericName": "Clonazepam IP Tablets",
+      "composition": "Clonazepam IP 0.50 mg",
+      "dosage": "0.50 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "NRx",
+      "suggestedSlug": "chlozapam-050",
+      "isDuplicateOf": "chlozapam.png"
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.27 PM (1).jpeg",
+      "brandName": "SUXEVIN 12.5",
+      "genericName": "Paroxetine Controlled Release Tablets IP",
+      "composition": "Paroxetine Hydrochloride IP equivalent to Paroxetine 12.5 mg (controlled release)",
+      "dosage": "12.5 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "Rx",
+      "suggestedSlug": "suxevin-12-5",
+      "isDuplicateOf": "WhatsApp Image 2026-09-05 at 4.18.09 PM (1).jpeg"
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.27 PM (2).jpeg",
+      "brandName": "SILEPRAM 25",
+      "genericName": "Milnacipran hydrochloride Tablets IP",
+      "composition": "Milnacipran hydrochloride IP 25 mg",
+      "dosage": "25 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "Rx",
+      "suggestedSlug": "silepram-25",
+      "isDuplicateOf": null
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.27 PM.jpeg",
+      "brandName": "SMIMINE D",
+      "genericName": "Imipramine Hydrochloride & Diazepam Tablets",
+      "composition": "Imipramine Hydrochloride + Diazepam",
+      "dosage": "Not visible on packaging",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "NRx",
+      "suggestedSlug": "smimine-d",
+      "isDuplicateOf": "WhatsApp Image 2026-09-05 at 4.18.09 PM.jpeg"
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.28 PM (1).jpeg",
+      "brandName": "SRIFRAM 250",
+      "genericName": "Disulfiram Tablets IP",
+      "composition": "Disulfiram IP 250 mg",
+      "dosage": "250 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "Rx",
+      "suggestedSlug": "srifram-250",
+      "isDuplicateOf": null
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.28 PM (2).jpeg",
+      "brandName": "NITZPAM 10",
+      "genericName": "Nitrazepam Tablets I.P.",
+      "composition": "Nitrazepam I.P. 10 mg",
+      "dosage": "10 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "NRx",
+      "suggestedSlug": "nitzpam-10",
+      "isDuplicateOf": null
+    },
+    {
+      "originalFilename": "WhatsApp Image 2026-09-05 at 4.18.28 PM.jpeg",
+      "brandName": "SRICAT 666",
+      "genericName": "Acamprosate Calcium Tablets",
+      "composition": "Acamprosate Calcium equivalent to Acamprosate 666 mg",
+      "dosage": "666 mg",
+      "packSize": "10 x 10 Tablets",
+      "prescriptionType": "Rx",
+      "suggestedSlug": "sricat-666",
+      "isDuplicateOf": null
+    }
+  ],
+  "canonicalSet": [
+    {
+      "suggestedSlug": "chlozapam-050",
+      "brandName": "CHLOZAPAM 0.50",
+      "canonicalSource": "chlozapam.png",
+      "reason": "Existing named file; clearest front-facing navy/gold design with full label legibility"
+    },
+    {
+      "suggestedSlug": "unzolam-p",
+      "brandName": "UNZOLAM P",
+      "canonicalSource": "unzolam-p.png",
+      "reason": "Existing named file; clean front panel with composition and NRx clearly visible"
+    },
+    {
+      "suggestedSlug": "unzolam-025",
+      "brandName": "UNZOLAM 0.25",
+      "canonicalSource": "WhatsApp Image 2026-09-05 at 4.18.08 PM (1).jpeg",
+      "reason": "Only image; clear 3/4 front angle with dosage and benefit icons"
+    },
+    {
+      "suggestedSlug": "chlozapam-025",
+      "brandName": "CHLOZAPAM 0.25",
+      "canonicalSource": "WhatsApp Image 2026-09-05 at 4.18.08 PM (2).jpeg",
+      "reason": "Clearest front-facing white/navy design; NRx, dosage, and pack size all legible"
+    },
+    {
+      "suggestedSlug": "marlboo-sr",
+      "brandName": "MARLBOO SR",
+      "canonicalSource": "WhatsApp Image 2026-09-05 at 4.18.17 PM.jpeg",
+      "reason": "Only design showing full composition (Sertraline 75 mg + Alprazolam 0.5 mg)"
+    },
+    {
+      "suggestedSlug": "silepram-50",
+      "brandName": "SILEPRAM 50",
+      "canonicalSource": "WhatsApp Image 2026-09-05 at 4.18.08 PM.jpeg",
+      "reason": "Only image; sharp front-facing dark blue box with Rx symbol"
+    },
+    {
+      "suggestedSlug": "suxevin-12-5",
+      "brandName": "SUXEVIN 12.5",
+      "canonicalSource": "WhatsApp Image 2026-09-05 at 4.18.09 PM (1).jpeg",
+      "reason": "Cleanest front panel; Rx, dosage, and controlled-release label clearly visible"
+    },
+    {
+      "suggestedSlug": "srithan-5",
+      "brandName": "SRITHAN 5",
+      "canonicalSource": "WhatsApp Image 2026-09-05 at 4.18.09 PM (2).jpeg",
+      "reason": "Only image; direct front angle with Rx and 5 mg dosage"
+    },
+    {
+      "suggestedSlug": "smimine-d",
+      "brandName": "SMIMINE D",
+      "canonicalSource": "WhatsApp Image 2026-09-05 at 4.18.09 PM.jpeg",
+      "reason": "Clearest front view with NRx, antidepressant/anxiolytic indication, and pack size"
+    },
+    {
+      "suggestedSlug": "sricat-333",
+      "brandName": "SRICAT 333",
+      "canonicalSource": "WhatsApp Image 2026-09-05 at 4.18.10 PM (1).jpeg",
+      "reason": "Clean front-facing box; Rx symbol and 333 mg dosage legible"
+    },
+    {
+      "suggestedSlug": "citlopram-plus",
+      "brandName": "CITLOPRAM PLUS",
+      "canonicalSource": "WhatsApp Image 2026-09-05 at 4.18.10 PM (2).jpeg",
+      "reason": "Clearest front panel with NRx and dual-composition label"
+    },
+    {
+      "suggestedSlug": "silepram-25",
+      "brandName": "SILEPRAM 25",
+      "canonicalSource": "WhatsApp Image 2026-09-05 at 4.18.27 PM (2).jpeg",
+      "reason": "Dark blue design with Rx visible; sharper than white alternate without Rx mark"
+    },
+    {
+      "suggestedSlug": "sritrl-50",
+      "brandName": "SRITRL 50",
+      "canonicalSource": "WhatsApp Image 2026-09-05 at 4.18.11 PM (1).jpeg",
+      "reason": "Best front-facing angle; Rx, 50 mg, and pack size all clearly readable"
+    },
+    {
+      "suggestedSlug": "srithan-10",
+      "brandName": "SRITHAN 10",
+      "canonicalSource": "WhatsApp Image 2026-09-05 at 4.18.11 PM (2).jpeg",
+      "reason": "Only image; clear front with Rx and 10 mg dosage"
+    },
+    {
+      "suggestedSlug": "aegon-s",
+      "brandName": "AEGON S",
+      "canonicalSource": "WhatsApp Image 2026-09-05 at 4.18.12 PM.jpeg",
+      "reason": "Only image; front panel shows sublingual label and dual composition"
+    },
+    {
+      "suggestedSlug": "aegon-sr",
+      "brandName": "AEGON SR",
+      "canonicalSource": "WhatsApp Image 2026-09-05 at 4.18.13 PM (1).jpeg",
+      "reason": "Only image; clearest view of 2 mg / 0.5 mg composition"
+    },
+    {
+      "suggestedSlug": "smimine-25",
+      "brandName": "SMIMINE 25",
+      "canonicalSource": "WhatsApp Image 2026-09-05 at 4.18.13 PM (2).jpeg",
+      "reason": "Clean front-facing white/navy design with Rx and tricyclic antidepressant label"
+    },
+    {
+      "suggestedSlug": "kroger-5",
+      "brandName": "KROGER 5",
+      "canonicalSource": "WhatsApp Image 2026-09-05 at 4.18.13 PM.jpeg",
+      "reason": "Only image; NRx, Diazepam 5 mg, and anxiolytic indication visible"
+    },
+    {
+      "suggestedSlug": "chlozapam-010",
+      "brandName": "CHLOZAPAM 0.10",
+      "canonicalSource": "WhatsApp Image 2026-09-05 at 4.18.14 PM (1).jpeg",
+      "reason": "Only image; clear front with NRx and 0.10 mg dosage"
+    },
+    {
+      "suggestedSlug": "smimine-fort",
+      "brandName": "SMIMINE FORT",
+      "canonicalSource": "WhatsApp Image 2026-09-05 at 4.18.15 PM.jpeg",
+      "reason": "Only image; shows full 25 mg / 5 mg composition on front panel"
+    },
+    {
+      "suggestedSlug": "smimine-75",
+      "brandName": "SMIMINE 75",
+      "canonicalSource": "WhatsApp Image 2026-09-05 at 4.18.16 PM (1).jpeg",
+      "reason": "Only image; front-facing with Rx and 75 mg dosage"
+    },
+    {
+      "suggestedSlug": "marlboo-025",
+      "brandName": "MARLBOO 0.25",
+      "canonicalSource": "WhatsApp Image 2026-09-05 at 4.18.16 PM (2).jpeg",
+      "reason": "Classic navy/gold front design; NRx and 0.25 mg clearest here"
+    },
+    {
+      "suggestedSlug": "srixone-50",
+      "brandName": "SRIXONE 50",
+      "canonicalSource": "WhatsApp Image 2026-09-05 at 4.18.25 PM.jpeg",
+      "reason": "Clean straight-on front view; Rx and 50 mg clearly visible"
+    },
+    {
+      "suggestedSlug": "sritrl-100",
+      "brandName": "SRITRL 100",
+      "canonicalSource": "WhatsApp Image 2026-09-05 at 4.18.17 PM (3).jpeg",
+      "reason": "Front box is sharp; includes blister pack confirming 100 mg imprint (marketing shot)"
+    },
+    {
+      "suggestedSlug": "srifram-250",
+      "brandName": "SRIFRAM 250",
+      "canonicalSource": "WhatsApp Image 2026-09-05 at 4.18.28 PM (1).jpeg",
+      "reason": "Clean box-only front view; less cluttered than blister-pack variant"
+    },
+    {
+      "suggestedSlug": "aegon-04",
+      "brandName": "AEGON 0.4",
+      "canonicalSource": "WhatsApp Image 2026-09-05 at 4.18.18 PM (2).jpeg",
+      "reason": "Only image; clear sublingual label and 0.4 mg dosage"
+    },
+    {
+      "suggestedSlug": "aegon-02",
+      "brandName": "AEGON 0.2",
+      "canonicalSource": "WhatsApp Image 2026-09-05 at 4.18.19 PM (1).jpeg",
+      "reason": "Only image; NRx and 0.2 mg clearly shown"
+    },
+    {
+      "suggestedSlug": "marlboo-050",
+      "brandName": "MARLBOO 0.50",
+      "canonicalSource": "WhatsApp Image 2026-09-05 at 4.18.20 PM (1).jpeg",
+      "reason": "Only image; front-facing navy/gold design with NRx and 0.50 mg"
+    },
+    {
+      "suggestedSlug": "sripline-25",
+      "brandName": "SRIPLINE 25",
+      "canonicalSource": "WhatsApp Image 2026-09-05 at 4.18.20 PM.jpeg",
+      "reason": "Only image; Rx, 25 mg, and pack size clearly legible"
+    },
+    {
+      "suggestedSlug": "clonazepam-p",
+      "brandName": "CLONAZEPAM P",
+      "canonicalSource": "WhatsApp Image 2026-09-05 at 4.18.21 PM (1).jpeg",
+      "reason": "Clearest front view with dual-dose boxes (0.50 mg + 20 mg SR) and NRx"
+    },
+    {
+      "suggestedSlug": "srixone-25",
+      "brandName": "SRIXONE 25",
+      "canonicalSource": "WhatsApp Image 2026-09-05 at 4.18.21 PM.jpeg",
+      "reason": "Clean front-facing box; Rx and 25 mg dosage visible"
+    },
+    {
+      "suggestedSlug": "nitzpam-5",
+      "brandName": "NITZPAM 5",
+      "canonicalSource": "WhatsApp Image 2026-09-05 at 4.18.22 PM (2).jpeg",
+      "reason": "Only image; NRx and 5 mg clearly displayed on front panel"
+    },
+    {
+      "suggestedSlug": "srifram-500",
+      "brandName": "SRIFRAM 500",
+      "canonicalSource": "WhatsApp Image 2026-09-05 at 4.18.23 PM (1).jpeg",
+      "reason": "Only image; Rx and 500 mg dosage visible with blister pack"
+    },
+    {
+      "suggestedSlug": "sudex-100",
+      "brandName": "SUDEX 100",
+      "canonicalSource": "WhatsApp Image 2026-09-05 at 4.18.23 PM.jpeg",
+      "reason": "Only image; front panel shows 100 mg and 1 x 4 pack size"
+    },
+    {
+      "suggestedSlug": "unzolam-050",
+      "brandName": "UNZOLAM 0.50",
+      "canonicalSource": "WhatsApp Image 2026-09-05 at 4.18.24 PM (3).jpeg",
+      "reason": "Only image; clear front with NRx, 0.50 mg, and benefit icons"
+    },
+    {
+      "suggestedSlug": "suxevin-25",
+      "brandName": "SUXEVIN 25",
+      "canonicalSource": "WhatsApp Image 2026-09-05 at 4.18.24 PM.jpeg",
+      "reason": "Only image; Rx, controlled-release label, and 25 mg visible"
+    },
+    {
+      "suggestedSlug": "sripline-10",
+      "brandName": "SRIPLINE 10",
+      "canonicalSource": "WhatsApp Image 2026-09-05 at 4.18.26 PM (2).jpeg",
+      "reason": "Only image; Rx and 10 mg clearly shown"
+    },
+    {
+      "suggestedSlug": "sricat-666",
+      "brandName": "SRICAT 666",
+      "canonicalSource": "WhatsApp Image 2026-09-05 at 4.18.28 PM.jpeg",
+      "reason": "Only image; Rx and 666 mg dosage on clean front panel"
+    },
+    {
+      "suggestedSlug": "nitzpam-10",
+      "brandName": "NITZPAM 10",
+      "canonicalSource": "WhatsApp Image 2026-09-05 at 4.18.28 PM (2).jpeg",
+      "reason": "Only image; NRx and 10 mg clearly displayed"
+    }
+  ],
+  "canonicalSummary": {
+    "uniqueProductsWithImages": 39,
+    "canonicalWhatsAppImagesToKeep": 37,
+    "existingImagesUsedAsCanonical": 2,
+    "whatsappImagesToArchiveOrDelete": 26,
+    "note": "Requested '62 products' likely refers to the full site catalog (62 entries in products.ts). Only 39 of those have real packaging photos. The canonicalSet above picks one image per photographed product."
+  }
+}
